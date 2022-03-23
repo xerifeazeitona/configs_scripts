@@ -97,6 +97,7 @@ map Mf mkfile
 map Mz zip $fx
 map Mt tar $fx
 map sd set drawbox!
+map sw setxwall $f
 
 # Fast travel
 map gd cd ~/Downloads
