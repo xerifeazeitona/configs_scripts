@@ -1,0 +1,9 @@
+# Custom aliases
+alias grep='grep --color=auto'
+alias fgrep='fgrep --color=auto'
+alias egrep='egrep --color=auto'
+alias ip='ip --color=auto'
+alias xcopy='xclip -i -r -sel p -f | xclip -i -r -sel c'
+alias xpaste='xclip -sel c -o'
+alias ls='lsd'
+alias mpa='mpv --audio-display=no'
